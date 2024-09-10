@@ -33,4 +33,4 @@ phases:
 artifacts:
   files:
     - imagedefinitions.json
-    - target/springboot-aws-ecs-deploy.jar
+    - target/springboot-aws-ecs-ecr.jar
